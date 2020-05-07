@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bafbVuKlZzNcCogDI6tu9f0W9e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -61,6 +66,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="400" y="22" key="#Main" timestamp="1588876490845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="22" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1588876490845" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588876380837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588876380837" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1588875544986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
